@@ -1,0 +1,2 @@
+project:
+    name: elt-pipeline-dbt-snowflake-airflow
